@@ -1,0 +1,3 @@
+In the first folder:-
+ - create 2 files;
+ - commit and upload changes to the remote repository;
