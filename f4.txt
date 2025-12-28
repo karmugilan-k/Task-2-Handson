@@ -1,0 +1,11 @@
+1. create one remote repository in github.
+2. on your local machine : 
+ - create 3 seperate files. 
+ - folder1 , folder2, folder3. 
+3. in the first folder: 
+ - create 2 files. 
+ - commit and upload changes to the remote repository. 
+4. in the second folder: 
+ - download the code from the remote repository. 
+ - create 2 new files. 
+ - commit and upload the changes to the same remote repository.
