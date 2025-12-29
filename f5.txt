@@ -1,0 +1,6 @@
+    1) Login to the super user and perform below.
+    2) create users and set passwords – user1 , user2 , user3.
+    3) create Groups  - devops , aws.
+    4) Change primary group of user2 , user3 to devops.
+    5) Add ‘aws’ Group as secondary group to the user1.
+    
